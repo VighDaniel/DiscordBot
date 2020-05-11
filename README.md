@@ -1,6 +1,6 @@
 # DiscordBot
 
-## What is Discord? (Sorry if you already know what Discord is.)
+## What is Discord? (Sorry if you already know what Discord is)
 <p align="justify">
 Well discord in a nutshell is an application where you can join or create servers and send messages in text channels. It's kinda like Slack, but for gaming purposes. And this is where the Commandable Bot comes in to place.
 </p>
