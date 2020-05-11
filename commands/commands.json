@@ -1,0 +1,16 @@
+[
+    {
+        "name": "meme",
+        "commander": "MemeCommander::giveMeme",
+        "parameters": "sub_reddit_name",
+        "description": [
+            "When you write `BOT_COMMANDER_VAR` + `meme` this will trigger the index method inside the MemeCommander.",
+            "This command accepts one parameter which is optional. The command parameter can be either required or optional."
+        ]
+    },
+    {
+        "name": "play",
+        "commander": "MusicCommander::playSong",
+        "parameters": "song"
+    }
+]
