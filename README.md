@@ -1,10 +1,5 @@
 # DiscordBot
 
-## What is Discord? (Sorry if you already know what Discord is)
-<p align="justify">
-Well discord in a nutshell is an application where you can join or create servers and send messages in text channels. It's kinda like Slack, but for gaming purposes. And this is where the Commandable Bot comes in to place.
-</p>
-
 ## How does it work?
 <p align="justify">
 Well first of all Discord has its own nodeJs implementation of their API, it gives you event listeners and cool methods, but you need to create your own logic and functionalities.
